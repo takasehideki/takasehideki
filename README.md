@@ -3,14 +3,18 @@
   <a href="https://takasehideki.github.io/">
   -->
   <a href="https://www.tlk-emb.jp/">
-    <img alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
-  </a>
+    <img alt="homepage" width="40px" src="https://www.svgrepo.com/show/125455/home-page.svg" />
+  </a> 
   <a href="https://twitter.com/takasehideki">
-    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/123/123728.svg" />
-  </a>
+    <img alt="twitter" width="40px" src="https://image.flaticon.com/icons/svg/123/123728.svg" />
+  </a> 
+  <a href="https://slideshare.net/takasehideki">
+    <img alt="slideshare" width="40px" src="https://simpleicons.org/icons/slideshare.svg" />
+  </a> 
   <a href="https://qiita.com/takasehideki">
-    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
-  </a>
+    <img alt="qiita" width="40px" src="https://simpleicons.org/icons/qiita.svg" />
+  </a> 
+  <br>
   <a href="https://github.com/takasehideki/takasehideki/">
     <img src="https://komarev.com/ghpvc/?username=takasehideki" alt="takasehideki" />
   </a>
