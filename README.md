@@ -6,7 +6,7 @@
     <img alt="homepage" width="40px" src="https://www.svgrepo.com/show/125455/home-page.svg" />
   </a> 
   <a href="https://twitter.com/takasehideki">
-    <img alt="twitter" width="40px" src="https://image.flaticon.com/icons/svg/123/123728.svg" />
+    <img alt="twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
   </a> 
   <a href="https://slideshare.net/takasehideki">
     <img alt="slideshare" width="40px" src="https://simpleicons.org/icons/slideshare.svg" />
